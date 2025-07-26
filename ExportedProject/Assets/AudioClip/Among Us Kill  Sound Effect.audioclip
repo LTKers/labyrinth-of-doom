@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!83 &8300000
+AudioClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Among Us Kill  Sound Effect
+  m_LoadType: 0
+  m_Channels: 2
+  m_Frequency: 44100
+  m_BitsPerSample: 16
+  m_Length: 1.4367347
+  m_IsTrackerFormat: 0
+  m_Ambisonic: 0
+  m_SubsoundIndex: 0
+  m_PreloadAudioData: 1
+  m_LoadInBackground: 0
+  m_Legacy3D: 1
+  m_Resource:
+    m_Source: Assets\AudioClip\Among Us Kill  Sound Effect.audioclip.resS
+    m_Offset: 10067013
+    m_Size: 32096
+  m_CompressionFormat: 7
+  m_EditorResource:
+    m_Source:
+    m_Offset: 0
+    m_Size: 0
+  m_EditorCompressionFormat: 0

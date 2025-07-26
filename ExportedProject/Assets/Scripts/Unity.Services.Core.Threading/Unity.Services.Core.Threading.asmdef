@@ -1,0 +1,5 @@
+{
+  "name": "Unity.Services.Core.Threading",
+  "references": [],
+  "allowUnsafeCode": true
+}
