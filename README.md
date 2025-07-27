@@ -1,30 +1,29 @@
 # labyrinth-of-doom
 
-**Labyrinth of Doom** is a real-time multiplayer maze adventure built with Unity and Photon PUN 2. Team up with fellow heroes to navigate the treacherous  maze and find statues scattered around to escape, or play  as the treacherous  minotaur  and sweing  his mighty axe  to  eliminate intruders before they  can reach all the siz statues.
+**Labyrinth of Doom** is a real-time multiplayer maze adventure built with Unity and Photon PUN 2. Team up with fellow heroes to navigate the treacherous  maze and find statues scattered around to escape, or play  as the treacherous  minotaur and swing his mighty axe to eliminate intruders before they can reach all six statues.
 With seamless online multiplayer, you can challenge friends or match with players globally in a battle of wits and speed. 
 
-Play the WebGL Build here: [https://ltaker.itch.io/labyrinth-of-dooms3](url)
+**Play the WebGL Build on itch.io:** [https://ltaker.itch.io/labyrinth-of-dooms3](url)
 
-![Gameplay Screenshot](Media/menu.png)
+![Gameplay Screenshot](Media/Menu.png)
 
 
-## 🚀 Features
+## Features
 
-- 🎮 **Multiplayer Support** using Photon PUN 2
-- 🧭 Procedurally generated labyrinths
-- 💡 Real-time lighting and shadows with Unity URP
-- 🕹️ Smooth character movement and animations
-- ⚔️ Competitive gameplay mechanics
-- 📦 Modular and expandable architecture
+-  **Multiplayer Support** using Photon PUN 2
+-  Real-time lighting and shadows
+-  Smooth character movement and animations
+-  Competitive gameplay mechanics
+-  Modular and expandable architecture
 
 **Note: The original game files were unfortunately corrupted. However, the assets and All project files in this repository represent what has been successfully recovered.
 All core scripts written by me were preserved and can be found in the ExportedProject/Assets/Scripts/Assembly-CSharp/ directory. The rest of the scripts hold placeholder content for the lost code.**
 
 **Instructions**
-## 🕹️ How to Play
+## How to Play
 
 ### Set Up
-Create your unique username and have the host create a room. All other players must join  the host's room using the "join room" feature
+The WebGl build of the game is available on itch.io: [https://ltaker.itch.io/labyrinth-of-dooms3](url). Create your unique username and have the host create a room. All other players must join  the host's room using the "join room" feature
 
 ![Gameplay Screenshot](Media/room-creation.png)
 
@@ -49,7 +48,7 @@ Create your unique username and have the host create a room. All other players m
 
 ---
 
-### ⚔️ Heroes
+### Heroes
 - Use your **torch** to light the way — you can’t see much beyond it.
 - **Attack**: Left-click to use your sword (lower damage, faster swings).
 - **Strategy**: The Minotaur can hear your footsteps. Be cautious and communicate with teammates.
@@ -61,3 +60,22 @@ Create your unique username and have the host create a room. All other players m
   - ⚠️ **Warning**: Hitting a statue reveals its location to the Minotaur!
 - **Group Up**: Teaming up improves survival chances.
 - **Special Ability**: Press `R` to teleport back to spawn using woollen twine. This can only be used once per game.
+
+## 🎮 Demo / Gameplay
+
+## 🛠️ Tech Stack
+
+| Category         | Tool / Technology                |
+|------------------|----------------------------------|
+| Game Engine      | [Unity](https://unity.com/) (URP)|
+| Programming      | C#                               |
+| 3D Modeling      | [Blender](https://www.blender.org/) & Free online assets|
+| UI               | Unity UI Toolkit, TextMeshPro    |
+| Version Control  | Git, [GitHub](https://github.com)|
+| Multiplayer      | [Photon PUN 2](https://www.photonengine.com/pun) |
+
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
