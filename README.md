@@ -67,11 +67,11 @@ The WebGl build of the game is available on itch.io: [https://ltaker.itch.io/lab
 
 ## 🎮 Demo / Gameplay
 
-![Gameplay Demo1](media/fighting.gif)
+![Gameplay Demo1](Media/fighting.gif)
 
-![Gameplay Demo2](media/fighting2.gif)
+![Gameplay Demo2](Media/fighting2.gif)
 
-![Gameplay Demo3](media/statue.gif)
+![Gameplay Demo3](Media/statue.gif)
 
 
 ## 🛠️ Tech Stack
