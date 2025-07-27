@@ -46,6 +46,8 @@ The WebGl build of the game is available on itch.io: [https://ltaker.itch.io/lab
 - **Tracking**: Players are revealed on your map with a red marker occasionally.
 - **Revealed Statues**: When heroes interact with a statue, an exclamation mark appears at the location — use this to track them down.
 
+![Gameplay Screenshot](Media/minotaur.png)
+
 ---
 
 ### Heroes
@@ -61,7 +63,16 @@ The WebGl build of the game is available on itch.io: [https://ltaker.itch.io/lab
 - **Group Up**: Teaming up improves survival chances.
 - **Special Ability**: Press `R` to teleport back to spawn using woollen twine. This can only be used once per game.
 
+![Gameplay Screenshot](Media/Theseus-room.png)
+
 ## 🎮 Demo / Gameplay
+
+![Gameplay Demo1](media/fighting.gif)
+
+![Gameplay Demo2](media/fighting2.gif)
+
+![Gameplay Demo3](media/statue.gif)
+
 
 ## 🛠️ Tech Stack
 
